@@ -12,10 +12,10 @@
 </a>
 </br>
 <p>About</p>
-<article>
+<p>
     Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
     needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python using Flask library.
-</article>
+</p>
 </br>
     <p>- 🔭 I’m currently working on innovation projects at ElringKlinger.</p>
     <p>- 🌱 I’m currently learning React at RocketSeat.</p>
@@ -51,10 +51,10 @@
 </br>
 <table>
     <tr>
-        <td valign="top" width="40%">
-            <img src="https://github-readme-stats.vercel.app/api?username=caiiolliima&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" style="background: black" />
+        <td valign="top" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=caiiolliima&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
         </td>
-        <td valign="top" width="40%">
+        <td valign="top" width="50%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiiolliima&hide_border=true&layout=compact" align="left" style="width: 100%" />
         </td>
     </tr>
