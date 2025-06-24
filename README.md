@@ -12,7 +12,7 @@
 </a>
 </br>
 <div>
-<p>About</p>
+<h3>About</h3>
 <p>
     Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
     needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python using Flask library.
@@ -24,7 +24,7 @@
 </div>
 </br>
 <div>
-<p>Languages and Tools</p>
+<h3>Languages and Tools</h3>
     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
         alt="React" height="50" />
     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"
@@ -48,7 +48,7 @@
         height="50" />
 </div>
 </br>
-<p>Github Stats</p>
+<h3>Github Stats</h3>
 </br>
 <table>
     <tr>
