@@ -11,6 +11,7 @@
         alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </br>
+<div>
 <p>About</p>
 <p>
     Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
@@ -18,12 +19,12 @@
 </p>
 </br>
     <p>- 🔭 I’m currently working on innovation projects at ElringKlinger.</p>
-    <p>- 🌱 I’m currently learning React at RocketSeat.</p>
+    <p>- 🌱 I’m constantly learning React, Tailwind.</p>
     <p>- ❓ Ask me about React, Tailwind, DDD (Domain-driven design), Node.JS.</p>
-</br>
-<p>Languages and Tools</p>
+</div>
 </br>
 <div>
+<p>Languages and Tools</p>
     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
         alt="React" height="50" />
     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"
