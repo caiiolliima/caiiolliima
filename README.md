@@ -15,11 +15,11 @@
 <article>
     Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
     needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python using Flask library.
-    </br>
+</article>
+</br>
     <p>- 🔭 I’m currently working on innovation projects at ElringKlinger.</p>
     <p>- 🌱 I’m currently learning React at RocketSeat.</p>
     <p>- ❓ Ask me about React, Tailwind, DDD (Domain-driven design), Node.JS.</p>
-</article>
 </br>
 <p>Languages and Tools</p>
 </br>
