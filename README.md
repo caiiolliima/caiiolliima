@@ -1,25 +1,27 @@
-## Hey 👋, I'm Caio Lima
+<div>
+## Olá, eu sou o Caio! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </br>
-<a href="https://github.com/caiiolliima" target="_blank">
+</br>
+<a href="https://github.com/caiiolliima" target="_blank" style="mardgin: 20px">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
         alt=github style="margin-bottom: 5px;" />
 </a>
 </a>
-<a href="https://www.linkedin.com/in/caio-alves-lima/" target="_blank">
+<a href="https://www.linkedin.com/in/caio-alves-lima/" target="_blank" style="mardgin: 20px">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
         alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </br>
-<span>About</span>
+<p>About</p>
 </br>
 Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
 needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python using Flask library.
 </br>
-- 🔭 I’m currently working on innovation projects at ElringKlinger.
-- 🌱 I’m currently learning React at RocketSeat.
-- ❓ Ask me about React, Tailwind, DDD (Domain-driven design), Node.JS.
+<p>- 🔭 I’m currently working on innovation projects at ElringKlinger.</p>
+<p>- 🌱 I’m currently learning React at RocketSeat.</p>
+<p>- ❓ Ask me about React, Tailwind, DDD (Domain-driven design), Node.JS.</p>
 </br>
-## Languages and Tools
+<p>## Languages and Tools</p>
 </br>
 <div>
     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
@@ -58,4 +60,6 @@ needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python 
     </tr>
 </table>  
 </br>
+</div>
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=caiiolliima&&style=flat-square)  
