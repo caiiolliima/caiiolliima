@@ -1,5 +1,5 @@
 <div>
-    Olá, eu sou o Caio! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+    <h2>Olá, eu sou o Caio! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </br>
 <a href="https://github.com/caiiolliima" target="_blank" style="mardgin: 20px">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
@@ -12,11 +12,14 @@
 </a>
 </br>
 <p>About</p>
-<article>Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
-needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python using Flask library.</article>
-<p>- 🔭 I’m currently working on innovation projects at ElringKlinger.</p>
-<p>- 🌱 I’m currently learning React at RocketSeat.</p>
-<p>- ❓ Ask me about React, Tailwind, DDD (Domain-driven design), Node.JS.</p>
+<article>
+    Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
+    needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python using Flask library.
+    </br>
+    <p>- 🔭 I’m currently working on innovation projects at ElringKlinger.</p>
+    <p>- 🌱 I’m currently learning React at RocketSeat.</p>
+    <p>- ❓ Ask me about React, Tailwind, DDD (Domain-driven design), Node.JS.</p>
+</article>
 </br>
 <p>Languages and Tools</p>
 </br>
