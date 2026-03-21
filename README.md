@@ -1,65 +1,51 @@
-<div>
-    <h2>Olá, eu sou o Caio! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-</br>
-<a href="https://github.com/caiiolliima" target="_blank" style="mardgin: 20px">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-        alt=github style="margin-bottom: 5px;" />
-</a>
-</a>
-<a href="https://www.linkedin.com/in/caio-alves-lima/" target="_blank" style="mardgin: 20px">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-        alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</br>
-<div>
-<h3>About</h3>
-<p>
-    Today I develop web applications using React, tailwind and vite on the frontend, the backend depending on the
-    needs of the project, I mainly use Typescript, Node.JS. Familiarity with Python using Flask library.
-</p>
-</br>
-    <p>- 🔭 I’m currently working on innovation projects at ElringKlinger.</p>
-    <p>- 🌱 I’m constantly learning React, Tailwind.</p>
-    <p>- ❓ Ask me about React, Tailwind, DDD (Domain-driven design), Node.JS.</p>
-</div>
-</br>
-<div>
-<h3>Languages and Tools</h3>
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
-        alt="React" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3"
-        height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
-        alt="HTML5" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-        alt="JavaScript" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
-        alt="MySQL" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"
-        height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
-        height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
-        alt="Node.js" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
-        alt="TypeScript" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"
-        height="50" />
-</div>
-</br>
-<h3>Github Stats</h3>
-</br>
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=caiiolliima&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-        </td>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiiolliima&hide_border=true&layout=compact" align="left" style="width: 100%" />
-        </td>
-    </tr>
-</table>  
+<!-- Header com typing animation -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&width=500&lines=Frontend+Engineer;React+%7C+TypeScript+%7C+Node.js;Open+to+Remote+Opportunities" />
+
+### Caio F. A. de Lima
+**Frontend Engineer · Piracicaba, Brazil**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-alves-lima)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white)](https://github.com/caiiolliima)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lima.caioalves@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=caiiolliima&color=1D9E75&style=flat&label=Profile+views)
+
 </div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=caiiolliima&&style=flat-square)  
+---
+
+### About
+
+Frontend Engineer with 3+ years building enterprise web platforms at **ElringKlinger** (German automotive multinational, 40+ countries). Specialized in React, TypeScript and Node.js — with systems actively used by 100+ corporate users.
+
+- Currently working on internal platforms integrating React frontends with ERP systems
+- Focused on clean architecture, reusable components and full-stack development
+- Open to remote international opportunities
+
+---
+
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,vite,tailwind,postgres,docker,git,github,figma,html,css)](https://skillicons.dev)
+
+**State & Forms:** Jotai · Zod · React Hook Form  
+**Testing:** Vitest · TDD  
+**Practices:** DDD · REST APIs · JWT · Agile / Scrum
+
+---
+
+### GitHub Stats
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=caiiolliima&show_icons=true&theme=transparent&hide_border=true&title_color=1D9E75&icon_color=2E75B6&text_color=555" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiiolliima&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=555" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=caiiolliima&theme=transparent&hide_border=true&ring=1D9E75&fire=2E75B6&currStreakLabel=1D9E75" />
+</div>
+
+---
+
+*Available for remote work and relocation · lima.caioalves@gmail.com*
