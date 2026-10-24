@@ -1,10 +1,10 @@
 <!-- Header com typing animation -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&width=500&lines=Frontend+Engineer;React+%7C+TypeScript+%7C+Node.js;Open+to+Remote+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&width=500&lines=Software+Engineer;React+%7C+TypeScript+%7C+Node.js;Open+to+Remote+Opportunities" />
 
 ### Caio F. A. de Lima
-**Frontend Engineer · Piracicaba, Brazil**
+**Software Engineer · Piracicaba, Brazil**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-alves-lima)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white)](https://github.com/caiiolliima)
