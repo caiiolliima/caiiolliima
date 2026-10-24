@@ -17,7 +17,7 @@
 
 ### About
 
-Frontend Engineer with 3+ years building enterprise web platforms at **ElringKlinger** (German automotive multinational, 40+ countries). Specialized in React, TypeScript and Node.js — with systems actively used by 100+ corporate users.
+Software Engineer with 3+ years building enterprise web platforms at **ElringKlinger** (German automotive multinational, 40+ countries). Specialized in React, TypeScript and Node.js — with systems actively used by 100+ corporate users.
 
 - Currently working on internal platforms integrating React frontends with ERP systems
 - Focused on clean architecture, reusable components and full-stack development
